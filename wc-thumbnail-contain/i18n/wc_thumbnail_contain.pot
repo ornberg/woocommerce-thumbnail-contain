@@ -1,0 +1,63 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Thumbnail Contain\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-05 11:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: wc-thumbnail-contain.php:105
+msgid ""
+"<b>WooCommerce Thumbnail Contain</b> plugin requires <b>WooCommerce</b> to "
+"work!"
+msgstr ""
+
+#: wc-thumbnail-contain.php:116
+msgid ""
+"<b>WooCommerce Thumbnail Contain</b> requires at least PHP version 5.6 to "
+"work!"
+msgstr ""
+
+#: includes/class-wc-thumbnail-contain-customizer.php:102
+msgid "Contain"
+msgstr ""
+
+#: includes/class-wc-thumbnail-contain-customizer.php:103
+msgid "Proportionally contain image within the dimensions of the thumbnail."
+msgstr ""
+
+#: includes/class-wc-customizer-control-cropping-extended.php:71
+msgid "Upscale smaller images"
+msgstr ""
+
+#: includes/class-wc-customizer-control-cropping-extended.php:80
+msgid "Responsive thumbnails"
+msgstr ""
+
+#: includes/class-wc-customizer-control-cropping-extended.php:84
+msgid "Use responsive images for product thumbnails"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Thumbnail Contain"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds 'contain' as WooCommerce product thumbnails cropping option"
+msgstr ""
+
+#. Author of the plugin
+msgid "Alexander Örnberg"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://github.com/ornberg/"
+msgstr ""
